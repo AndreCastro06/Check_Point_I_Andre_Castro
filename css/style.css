@@ -14,7 +14,7 @@ header {
 }
 
 nav {
-  background-image: url(/img/background__menu.jpg);
+  background-image: url(/img/Background__menu.jpg);
   display: flex;
   flex-direction: row;
   justify-content: space-between;
